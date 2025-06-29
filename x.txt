@@ -1,2 +1,0 @@
-<body bgcolor="yellow"/>
-	<h1> This page make for testing purpose</h1>
